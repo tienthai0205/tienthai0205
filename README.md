@@ -6,7 +6,7 @@
 
 *Junior developer at [PESCHECK](https://www.pescheck.io/)*
 
-[![Linkedin: tientahi](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-t-326769166/)
+![Linkedin: tienthai](https://img.shields.io/badge/-tien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-t-326769166/)
 ![Twitter](https://img.shields.io/twitter/follow/alie_steward?label=Follow)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

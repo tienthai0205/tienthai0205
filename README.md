@@ -1,6 +1,6 @@
 ### Hi, I'm Tien Thai!
 ---
-<img align="right" src="https://www.dropbox.com/s/mbnaxc8wzhpuyvb/profile_illustra.png?" width="230">
+<img align="right" src="https://github.com/tienthai0205/tienthai0205/blob/master/profile_illustra.png" width="230">
 
 *Software Engineering student at [Saxion University of Applied Sciences (the Netherlands)](https://www.saxion.edu/)*
 

@@ -5,7 +5,7 @@
 
 *Junior developer at [PESCHECK](https://www.pescheck.io/)*
 
-<img align="left" src="profile_illustra.png">
+<img align="right" src="profile_illustra.png" width="30" height="30">
 
 What about me?
 

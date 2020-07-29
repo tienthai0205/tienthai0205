@@ -1,11 +1,16 @@
 ### Hi, I'm Tien Thai!
 ---
+<img align="right" src="profile_illustra.png" width="230">
 
 *Software Engineering student at [Saxion University of Applied Sciences (the Netherlands)](https://www.saxion.edu/)*
 
 *Junior developer at [PESCHECK](https://www.pescheck.io/)*
 
-<img align="right" src="profile_illustra.png" width="200">
+![Instagram Follow](https://www.instagram.com/thojttt?label=Follow)
+[![Linkedin: tientahi](https://www.linkedin.com/in/tien-t-326769166/)
+![Twitter](https://twitter.com/alie_steward)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
 What about me?

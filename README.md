@@ -17,20 +17,21 @@ What about me?
 ```jsx
 const tien = {
 	pronouns: "She" | "Her",
-	code: ["Java", "JavaScript", "Python", "Dart", "Swift", "C++"],
+	code: ["Java", "JavaScript", "Python", "Dart", "Ruby", "C#"],
 	letsTalkAbout: ["mobile app dev", "IoT", "music", "ui/ux", "apple", "tech"],
 	technologies: {
-		mobileDev: ["Android native", "IOS native", "hybrid Flutter"],
+		mobileDev: ["Android native", "IOS native", "Flutter"],
 		frontend: {
-			frameworks: ["Vue", "React", "Angular"],
+			frameworks: ["Vue", "Angular"],
 			css: ["vuetify", "bootstrap"]
 		},
 		backend: {
 			js: ["node", "express"],
 			python: ["django"],
-			java: ["spring boot"]
+			java: ["spring boot"],
+			c#: ["asp .net"]
 		}
-		devOps: ["docker", "aws"],
+		devOps: ["gitlab cicd", "aws", "docker"],
 		databases: ["mySql", "postgresql", "sqlite"],
 		misc: ["socket.io", "selenium", "firebase"]
 	},

@@ -51,3 +51,6 @@ const tien = {
 ```
 
 I love connecting with people, so let's have a coffee chat and say hello world in different languages!
+
+[<img src="https://nasa-apod-badge.herokuapp.com" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
+

@@ -30,7 +30,7 @@ const tien = {
 			python: ["django"],
 			java: ["spring boot"],
 			c#: ["asp .net"]
-		}
+		},
 		devOps: ["gitlab cicd", "aws", "docker"],
 		databases: ["mySql", "postgresql", "sqlite"],
 		misc: ["socket.io", "selenium", "firebase"]

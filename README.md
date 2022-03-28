@@ -4,7 +4,7 @@
 
 *Software Engineering student at [Saxion University of Applied Sciences (the Netherlands)](https://www.saxion.edu/)*
 
-*Junior developer at [PESCHECK](https://www.pescheck.io/)*
+*Graduation intern at [Accenture](https://www.accenture.com)*
 
 ![Linkedin: tienthai](https://img.shields.io/badge/-tien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-t-326769166/)
 ![Twitter](https://img.shields.io/twitter/follow/alie_steward?label=Follow)
@@ -17,7 +17,7 @@ What about me?
 ```jsx
 const tien = {
 	pronouns: "She" | "Her",
-	code: ["Java", "JavaScript", "Python", "Dart", "Ruby", "C#"],
+	code: ["Java", "JavaScript", "TypeScript", "Python", "Dart", "Ruby", "C#"],
 	letsTalkAbout: ["mobile app dev", "IoT", "music", "ui/ux", "apple", "tech"],
 	technologies: {
 		mobileDev: ["Android native", "IOS native", "Flutter"],

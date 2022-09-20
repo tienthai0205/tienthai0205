@@ -2,9 +2,7 @@
 ---
 <img align="right" src="https://github.com/tienthai0205/tienthai0205/blob/master/profile_illustra.png" width="230">
 
-*Software Engineering student at [Saxion University of Applied Sciences (the Netherlands)](https://www.saxion.edu/)*
-
-*Graduation intern at [Accenture](https://www.accenture.com)*
+*Software Engineer @[AMMP Technologies](https://www.ammp.io)*
 
 ![Linkedin: tienthai](https://img.shields.io/badge/-tien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tien-t-326769166/)
 ![Twitter](https://img.shields.io/twitter/follow/alie_steward?label=Follow)

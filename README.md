@@ -51,7 +51,7 @@ const tien = {
 I love connecting with people, so let's have a coffee chat and say hello world in different languages!
 
 Check out the Astrononmy picture of the day! This card can be found under repo [NASA Apod](https://github.com/NominalTrajectory/nasa-apod-github-readme)
-[<img src="https://main-bvxea6i-qok2msoo3yjke.de-2.platformsh.site" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
+[<img src="https://nasa-apod.onlivio.com" alt="NASA's Astronomy Picture of the Day" width="400" />](https://apod.nasa.gov/apod/astropix.html)
 
 My social:
 

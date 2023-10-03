@@ -57,4 +57,3 @@ Check out the Astrononmy picture of the day! This card can be found under repo [
 My social:
 
 [![An image of @tienthai0205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tienthai0205)](https://holopin.io/@tienthai0205)
-

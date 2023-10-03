@@ -47,6 +47,7 @@ const tien = {
 	funFacts: ["Perfect is the enememy of good. But let's spend half a day refactoring old codes"],
 }
 ```
+[![An image of @tienthai0205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tienthai0205)](https://holopin.io/@tienthai0205)
 
 I love connecting with people, so let's have a coffee chat and say hello world in different languages!
 
@@ -55,5 +56,5 @@ Check out the Astrononmy picture of the day! This card can be found under repo [
 
 My social:
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=alie_steward)](https://github.com/gazf/github-readme-twitter)
+[![An image of @tienthai0205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tienthai0205)](https://holopin.io/@tienthai0205)
 

@@ -44,7 +44,7 @@ const tien = {
 			organization: "google"
 		}
 	],
-	funFacts: ["Perfect is the enememy of good. But let's spend half a day refactoring old codes"],
+	funFacts: ["Perfect is the enemy of good. But let's spend half a day refactoring old codes!"],
 }
 ```
 [![An image of @tienthai0205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tienthai0205)](https://holopin.io/@tienthai0205)

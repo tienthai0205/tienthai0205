@@ -14,7 +14,6 @@ What about me?
 
 ```jsx
 const tien = {
-	pronouns: "She" | "Her",
 	code: ["Java", "JavaScript", "TypeScript", "Python", "Dart", "Ruby", "C#"],
 	letsTalkAbout: ["mobile app dev", "IoT", "music", "ui/ux", "apple", "tech"],
 	technologies: {
